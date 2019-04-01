@@ -1,0 +1,21 @@
+body {
+      background-color: #F7F7F7;}
+
+.slider {
+      width: 62vw;
+      height: 20vw;
+      margin: 3vw auto;
+      background-color: white;
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr;
+			gap: 1vw;}
+
+img:last-child {
+      display: none;}
+
+button {
+      font-family: "helvetica neue";
+      font-size: 1.2em;
+			display: block;
+			margin: 0 auto;
+			padding: 5px 20px;}
